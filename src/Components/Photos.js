@@ -5,7 +5,7 @@ import Gallery from 'react-photo-gallery';
 class Photos extends Component {
 
     render() { 
-       let photos = {};
+       let photos = [];
         if(this.props.data){
         console.log(this.props.data)
         photos = this.props.data.photos.map(function(photo){ return {src:photo.src, width: photo.width, height: photo.height} });   

@@ -1,192 +1,359 @@
 {
-  "main": {
-    "name":"Christopher Look",
-    "occupation":"Software Engineer",
-    "description":"I love designing and implementing effective and maintainable solutions",
-    "image":"profilepic1.jpg",
-    "bio":"I love solving technical problems. I believe just about all the easy problems have been solved, and so the only valuable problems left to solve are hard. I have led a team of 4 engineers to create an EEG device to Diagnose Alzheimer's with Machine Learning. I designed a trading algorithm that traded based on twitter data and traded my real money. I'm looking forward to joining a company to learn more and bring solutions to scale.",
-    "contactmessage":"If you want to contact me I check my email often.",
-    "email": "lookwchristopher@gmail.com",
-    "phone": "301-814-4298",
-    "website": "http://www.chrislook.me",
-    "resumedownload":"Christopher_Look_Resume1.pdf",
-    "social":[
-      {
-        "name":"github",
-        "url":"http://github.com/lookcw",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/christopher-look/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"email",
-        "url":"mailto:lookwchristopher@gmail.com",
-        "className":"fa fa-envelope"
-      }
-    ]
-  },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "logo":"umd.png",
-        "school":"University of Maryland, College Park",
-        "degree":"Computer Science, B.S.  &  Bioengineering, B.S.",
-        "graduated":"\nMay 2020",
-        "description":"GPA: 3.88"
-      }
-    ],
-    "work":[
-      {
-        "logo":"aws.png",
-        "company":"Amazon Web Services",
-        "title":"Software Development Intern",
-        "years":"May 2019 - Aug 2019",
-        "description":"Designed system to automatically predict when API customers would get throttled.\nReduced firefighting in AWS by proactively alerting at-risk customers and preventing service outages before they occured. Implemented in Python and unit tested with mock and pytest."
-      },
-      {
-        "logo": "flatiron1.png",
-        "company":"Flatiron Health",
-        "title":"Software Engineering Intern",
-        "years":"June 2018 - Aug 2019",
-        "description":"Created fullstack dashboard to help developers keep track of tickets, code reviews, and builds.  Linked different sources of information to create holistic view of developer workflow. Used MVC model with .NET backend and ReactJS frontend. Led direction of project by conducting interviews with future consumers, and consulting with mentor."
-      },
-      {
-        "logo":"umd.png",
-        "company":"Fischell Department of Bioengineering",
-        "title":"Research assistant",
-        "years":"Sep 2016 - May 2018",
-        "description":"Aided in elucidation of mechanism behind allosteric interaction, often called the second secret of life. Used network and graph analysis to identify critical amino acids to target in drug discovery."
-      },
-      {
-        "logo":"nih.png",
-        "company":"NCATS/NIH",
-        "title":"Research Intern",
-        "years":"June 2015- Aug 2015 &  May 2016- Aug 2016",
-        "description":"Created machine learning models to predict whether small molecules would fit in a protein based on chemical descriptors. Developed an NLP Method of predicting whether proteins would interact with each other and prevent drug-drug interactions."
-      }
-
-    ],
-    "skills":[  
-      {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Synapto",
-        "category":"An EEG and machine learning device to diagnose Alzheimers disease. Raised over $40,000, featured in Forbes, Washingtonian, and more.",
-        "image":"synapto.png",
-        "url":"http://www.synapto.io"
-      },
-      {
-        "title":"Senvision",
-        "category":"A trading algorithm based on NLP on twitter to help millennials invest. Made over 2x the market over 5 months.",
-        "image":"Senvision.png",
-        "url":"http://www.senvision.io"
-      },
-      {
-        "title":"Dart at the Globe",
-        "category":"A react project to choose a random spot on land for people to vacaction to.",
-        "image":"dart.png",
-        "url":"http://dartattheglobe.com/"
-      },
-      {
-        "title":"Sunrise",
-        "category":"Chrome Extension to use NLP on text messages to automatically monitor patient health. Compass Challenge Winner",
-        "image":"sunrise.png",
-        "url":"https://devpost.com/software/sunrise-0g9qlw"
-      },
-      {
-        "title":"Telemonitor Parkinsons",
-        "category":"Android application to telemonitor severity of parkinson symptoms in response to drugs. Blue Cross Blue Shield Winner",
-        "image":"parkinsons.jpg",
-        "url":"https://devpost.com/software/parkinson-s-telemonitoring"
-      }
-    ]
-  },
-  "photos":{
-    "photos":[
-      {
-        "src": "images/gallery/0002.jpg",
-        "width": 2,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0004.jpg",
-        "width": 3,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0005.jpg",
-        "width": 2,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0006.jpg",
-        "width": 2,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0007.jpg",
-        "width": 3,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0008.jpg",
-        "width": 3,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0009.jpg",
-        "width": 1,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0010.jpg",
-        "width": 2,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0011.jpg",
-        "width": 2,
-        "height": 1
-      },
-      {
-        "src": "images/gallery/0012.jpg",
-        "width": 2,
-        "height": 1
-      }
-    ]
-  }
+    "main": {
+        "name": "Christopher Look",
+        "occupation": "Software Engineer",
+        "description": "I love designing and implementing effective and maintainable solutions",
+        "image": "profilepic1.jpg",
+        "bio": "I love solving technical problems. I believe just about all the easy problems have been solved, and so the only valuable problems left to solve are hard. I have led a team of 4 engineers to create an EEG device to Diagnose Alzheimer's with Machine Learning. I designed a trading algorithm that traded based on twitter data and traded my real money. I'm looking forward to joining a company to learn more and bring solutions to scale.",
+        "contactmessage": "If you want to contact me I check my email often.",
+        "email": "lookwchristopher@gmail.com",
+        "phone": "301-814-4298",
+        "website": "http://www.chrislook.me",
+        "resumedownload": "Christopher_Look_Resume1.pdf",
+        "social": [{
+                "name": "github",
+                "url": "http://github.com/lookcw",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/christopher-look/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "email",
+                "url": "mailto:lookwchristopher@gmail.com",
+                "className": "fa fa-envelope"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [{
+            "logo": "umd.png",
+            "school": "University of Maryland, College Park",
+            "degree": "Computer Science, B.S.  &  Bioengineering, B.S.",
+            "graduated": "\nMay 2020",
+            "description": "GPA: 3.88"
+        }],
+        "work": [{
+                "logo": "aws.png",
+                "company": "Amazon Web Services",
+                "title": "Software Development Intern",
+                "years": "May 2019 - Aug 2019",
+                "description": "Designed system to automatically predict when API customers would get throttled.\nReduced firefighting in AWS by proactively alerting at-risk customers and preventing service outages before they occured. Implemented in Python and unit tested with mock and pytest."
+            },
+            {
+                "logo": "flatiron1.png",
+                "company": "Flatiron Health",
+                "title": "Software Engineering Intern",
+                "years": "June 2018 - Aug 2019",
+                "description": "Created fullstack dashboard to help developers keep track of tickets, code reviews, and builds.  Linked different sources of information to create holistic view of developer workflow. Used MVC model with .NET backend and ReactJS frontend. Led direction of project by conducting interviews with future consumers, and consulting with mentor."
+            },
+            {
+                "logo": "umd.png",
+                "company": "Fischell Department of Bioengineering",
+                "title": "Research assistant",
+                "years": "Sep 2016 - May 2018",
+                "description": "Aided in elucidation of mechanism behind allosteric interaction, often called the second secret of life. Used network and graph analysis to identify critical amino acids to target in drug discovery."
+            },
+            {
+                "logo": "nih.png",
+                "company": "NCATS/NIH",
+                "title": "Research Intern",
+                "years": "June 2015- Aug 2015 &  May 2016- Aug 2016",
+                "description": "Created machine learning models to predict whether small molecules would fit in a protein based on chemical descriptors. Developed an NLP Method of predicting whether proteins would interact with each other and prevent drug-drug interactions."
+            }
+        ],
+        "skills": [{
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Illustrator",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "VueJs",
+                "level": "50%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Synapto",
+                "category": "An EEG and machine learning device to diagnose Alzheimers disease. Raised over $40,000, featured in Forbes, Washingtonian, and more.",
+                "image": "synapto.png",
+                "url": "http://www.synapto.io"
+            },
+            {
+                "title": "Senvision",
+                "category": "A trading algorithm based on NLP on twitter to help millennials invest. Made over 2x the market over 5 months.",
+                "image": "Senvision.png",
+                "url": "http://www.senvision.io"
+            },
+            {
+                "title": "Dart at the Globe",
+                "category": "A react project to choose a random spot on land for people to vacaction to.",
+                "image": "dart.png",
+                "url": "http://dartattheglobe.com/"
+            },
+            {
+                "title": "Sunrise",
+                "category": "Chrome Extension to use NLP on text messages to automatically monitor patient health. Compass Challenge Winner",
+                "image": "sunrise.png",
+                "url": "https://devpost.com/software/sunrise-0g9qlw"
+            },
+            {
+                "title": "Telemonitor Parkinsons",
+                "category": "Android application to telemonitor severity of parkinson symptoms in response to drugs. Blue Cross Blue Shield Winner",
+                "image": "parkinsons.jpg",
+                "url": "https://devpost.com/software/parkinson-s-telemonitoring"
+            }
+        ]
+    },
+    "photos": {
+        "japanPhotos": [{
+                "src": "images/japan_photos/0001.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0002.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0003.jpg",
+                "width": 0.75,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0004.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0005.jpg",
+                "width": 0.75,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0006.jpg",
+                "width": 0.75,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0007.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0008.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0009.jpg",
+                "width": 2,
+                "height": 1
+            },
+            {
+                "src": "images/japan_photos/0010.jpg",
+                "width": 1.5,
+                "height": 1
+            }
+        ],
+        "koreaPhotos": [{
+                "src": "images/korea_photos/0001.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0002.jpg",
+                "width": 1.2,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0005.jpg",
+                "width": 1.2,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0004.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0007.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0003.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0006.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0008.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/korea_photos/0009.jpg",
+                "width": 1.5,
+                "height": 1
+            }
+        ],
+        "chicagoPhotos": [{
+                "src": "images/chicago_photos/0001.jpg",
+                "width": 1,
+                "height": 1
+            },
+            {
+                "src": "images/chicago_photos/0002.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/chicago_photos/0003.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/chicago_photos/0004.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/chicago_photos/0005.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/chicago_photos/0006.jpg",
+                "width": 1.75,
+                "height": 1
+            }
+        ],
+        "newYorkPhotos": [{
+                "src": "images/newyork_photos/0001.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0002.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0003.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0004.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0005.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0006.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0007.jpg",
+                "width": 0.7,
+                "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0009.jpg",
+                "width": 1.5,
+                "height": 1
+            }
+        ],
+        "seattlePhotos": [{
+                "src": "images/seattle_photos/0001.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/seattle_photos/0002.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/seattle_photos/0003.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/seattle_photos/0004.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/seattle_photos/0008.jpg",
+                "width": 1.75,
+                "height": 1
+            },
+            {
+                "src": "images/seattle_photos/0009.jpg",
+                "width": 1.75,
+                "height": 1
+            }
+        ],
+        "sanFranciscoPhotos": [{
+                "src": "images/san_francisco_photos/0001.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/san_francisco_photos/0002.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/san_francisco_photos/0003.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/san_francisco_photos/0004.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/san_francisco_photos/0005.jpg",
+                "width": 2,
+                "height": 1
+            }
+        ]
+    }
 }

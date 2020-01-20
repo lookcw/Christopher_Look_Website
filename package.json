@@ -8,8 +8,7 @@
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-scripts": "1.0.17",
-    "react-photo-gallery":"8.0.0"
-    
+    "react-photo-gallery": "8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,5 +17,5 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    }
+  }
 }

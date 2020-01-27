@@ -29,7 +29,7 @@ class Photos extends Component {
                     newYork :this.props.data.newYorkPhotos.map(photoMap),
             
                 }
-        }
+        
         return (
             <section id="photos" >
                 <h1> Checkout where I've been </h1>
@@ -46,6 +46,10 @@ class Photos extends Component {
                 <h2> New York </h2>
                 <Gallery photos={photos.newYork} />
             </section>);
+        }
+        else {
+            return(<span>Loading...</span>)
+        }
     }
 
 }

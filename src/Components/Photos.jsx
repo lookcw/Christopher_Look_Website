@@ -8,7 +8,15 @@ function photoMap(photo) {
 
 class Photos extends Component {
     render() {
-        let photos = [];
+        let photos = {
+            japan:[],
+            korea:[],
+            chicago:[],
+            sanFrancisco:[],
+            seattle:[],
+            newYork:[]
+        };
+        
         if (this.props.data) {
             console.log(this.props.data)
             photos = 

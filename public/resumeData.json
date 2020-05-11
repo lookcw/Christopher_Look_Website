@@ -125,7 +125,14 @@
                 "category": "Android application to telemonitor severity of parkinson symptoms in response to drugs. Blue Cross Blue Shield Winner",
                 "image": "parkinsons.jpg",
                 "url": "https://devpost.com/software/parkinson-s-telemonitoring"
+            },
+            {
+                "title": "DIY Ventilator",
+                "category": "Submission to Columbia University DIY Ventilator challenge.",
+                "image": "Ventilator.png",
+                "url": "DIY_Ventilator.pdf"
             }
+
         ]
     },
     "photos": {

@@ -7,14 +7,6 @@ function photoMap(photo) {
 
 
 class Photos extends Component {
-
-    constructor(props) {
-        super(props);
-      }
-
-
-
-
     render() {
         let photos = [];
         if (this.props.data) {
@@ -29,9 +21,11 @@ class Photos extends Component {
                     newYork :this.props.data.newYorkPhotos.map(photoMap),
             
                 }
+            }
         
         return (
             <section id="photos" >
+                <div>
                 <h1> Checkout where I've been </h1>
                 <h2> Japan </h2>
                 <Gallery photos={photos.japan} />
@@ -45,12 +39,9 @@ class Photos extends Component {
                 <Gallery photos={photos.seattle} />
                 <h2> New York </h2>
                 <Gallery photos={photos.newYork} />
+                </div>
             </section>);
         }
-        else {
-            return(<span>Loading...</span>)
-        }
-    }
 
 }
 

@@ -109,12 +109,6 @@
                 "url": "http://www.senvision.io"
             },
             {
-                "title": "Dart at the Globe",
-                "category": "A react project to choose a random spot on land for people to vacaction to.",
-                "image": "dart.png",
-                "url": "http://dartattheglobe.com/"
-            },
-            {
                 "title": "Sunrise",
                 "category": "Chrome Extension to use NLP on text messages to automatically monitor patient health. Compass Challenge Winner",
                 "image": "sunrise.png",

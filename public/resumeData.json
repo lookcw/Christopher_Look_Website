@@ -110,6 +110,12 @@
                 "url": "http://www.senvision.io"
             },
             {
+                "title": "Allostery Mechanism Elucidation",
+                "category": "Research paper describing patterns in allostery for novel drug discovery",
+                "image": "BirA.png",
+                "url": "https://pubs.acs.org/doi/10.1021/acs.biochem.9b01006"
+            },
+            {
                 "title": "Sunrise",
                 "category": "Chrome Extension to use NLP on text messages to automatically monitor patient health. Compass Challenge Winner",
                 "image": "sunrise.png",

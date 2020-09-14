@@ -4,7 +4,7 @@
         "occupation": "Software Engineer",
         "description": "I love designing and implementing effective and maintainable solutions",
         "image": "portrait.jpg",
-        "bio": "I love solving technical problems. I believe just about all the easy problems have been solved, and so the only valuable problems left to solve are hard. I have led a team of 4 engineers to create an EEG device to screen for Alzheimer's with Machine Learning. I designed a successful trading algorithm that traded based on twitter data and traded my real money. I will be joining Amazon as a sofware development engineer to learn how to build at scale.",
+        "bio": "I love solving technical problems. I believe just about all the easy problems have been solved, and so the only valuable problems left to solve are hard. I have led a team of 4 engineers to create an EEG device to screen for Alzheimer's with Machine Learning. I designed a successful trading algorithm that traded based on twitter data and traded my real money. I have joined Amazon as a sofware development engineer on the Security Token Service Team to learn how to build at scale.",
         "contactmessage": "If you want to contact me, Email me! I check it often.",
         "email": "lookwchristopher@gmail.com",
         "phone": "301-814-4298",
@@ -48,7 +48,7 @@
                 "logo": "flatiron1.png",
                 "company": "Flatiron Health",
                 "title": "Software Engineering Intern",
-                "years": "June 2018 - Aug 2019",
+                "years": "June 2018 - Aug 2018",
                 "description": "Created fullstack dashboard to help developers keep track of tickets, code reviews, and builds.  Linked different sources of information to create holistic view of developer workflow. Made using MVC model with .NET backend and ReactJS frontend. Led direction of project by conducting interviews with future consumers, and consulting with mentor."
             },
             {
@@ -117,15 +117,21 @@
             },
             {
                 "title": "Sunrise",
-                "category": "Chrome Extension to use NLP on text messages to automatically monitor patient health. Compass Challenge Winner",
+                "category": "Chrome Extension to use NLP on text messages to automatically monitor patient mental health. Bitcamp Compass Challenge Winner",
                 "image": "sunrise.png",
                 "url": "https://devpost.com/software/sunrise-0g9qlw"
             },
             {
                 "title": "Telemonitor Parkinsons",
                 "category": "Android application to telemonitor severity of parkinson symptoms in response to drugs. Blue Cross Blue Shield Winner",
-                "image": "parkinsons.jpg",
+                "image": "parkinsons.png",
                 "url": "https://devpost.com/software/parkinson-s-telemonitoring"
+            },
+            {
+                "title": "Eat In",
+                "category": "Full Stack website in with Django and ReactJS. Give it ingredients and itll give you recipes you can make with them!",
+                "image": "cookbook.png",
+                "url": "http://eat-in.herokuapp.com"
             },
             {
                 "title": "DIY Ventilator",

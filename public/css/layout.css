@@ -573,7 +573,7 @@ ul#nav li.current a {
     -moz-transition: opacity 0.3s ease-in-out;
     -o-transition: opacity 0.3s ease-in-out;
     transition: opacity 0.3s ease-in-out;
-    background: url(../images/overlay-bg.png) repeat;
+    background: url(../images/overlay-bg-1.png) repeat;
 }
 
 .portfolio-item .item-wrap .link-icon {
@@ -623,7 +623,7 @@ ul#nav li.current a {
 /* on hover */
 
 .portfolio-item:hover .overlay {
-    opacity: 1;
+    opacity: .9;
     -moz-opacity: 1;
     filter: alpha(opacity=100);
 }

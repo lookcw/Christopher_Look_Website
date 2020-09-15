@@ -110,28 +110,28 @@
                 "url": "http://www.senvision.io"
             },
             {
-                "title": "Allostery Mechanism Elucidation",
-                "category": "Research paper describing patterns in allostery for novel drug discovery",
+                "title": "Allostery Research",
+                "category": "Research paper describing discovering network patterns in allostery for novel drug discovery",
                 "image": "BirA.png",
                 "url": "https://pubs.acs.org/doi/10.1021/acs.biochem.9b01006"
             },
             {
-                "title": "Sunrise",
+                "title": "Recipe Finder",
+                "category": "Full Stack website in with Django and ReactJS. Give it ingredients and itll give you recipes you can make with them!",
+                "image": "cookbook.png",
+                "url": "http://eat-in.herokuapp.com"
+            },
+            {
+                "title": "NLP for Mental Health Tracking",
                 "category": "Chrome Extension to use NLP on text messages to automatically monitor patient mental health. Bitcamp Compass Challenge Winner",
                 "image": "sunrise.png",
                 "url": "https://devpost.com/software/sunrise-0g9qlw"
             },
             {
-                "title": "Telemonitor Parkinsons",
+                "title": "Parkinson's Telemonitoring",
                 "category": "Android application to telemonitor severity of parkinson symptoms in response to drugs. Blue Cross Blue Shield Winner",
                 "image": "parkinsons.png",
                 "url": "https://devpost.com/software/parkinson-s-telemonitoring"
-            },
-            {
-                "title": "Eat In",
-                "category": "Full Stack website in with Django and ReactJS. Give it ingredients and itll give you recipes you can make with them!",
-                "image": "cookbook.png",
-                "url": "http://eat-in.herokuapp.com"
             },
             {
                 "title": "DIY Ventilator",

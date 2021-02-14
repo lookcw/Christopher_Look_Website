@@ -2,15 +2,16 @@
     "main": {
         "name": "Christopher Look",
         "occupation": "Software Engineer",
-        "description": "I love designing and implementing effective and maintainable solutions",
+        "description": "I Love Designing and Implementing Maintainable Solutions",
         "image": "portrait.jpg",
-        "bio": "I love solving technical problems. I believe just about all the easy problems have been solved, and so the only valuable problems left to solve are hard. I have led a team of 4 engineers to create an EEG device to screen for Alzheimer's with Machine Learning. I designed a successful trading algorithm that traded based on twitter data and traded my real money. I have joined Amazon as a sofware development engineer on the Security Token Service Team to learn how to build at scale.",
+        "bio": "I believe just about all the easy problems have been solved, so the only valuable problems left are hard. Those are the problems I look to tackle. I am the tech lead for a group called Synapto to create an EEG system to screen for Alzheimer's with Machine Learning. I designed a trading algorithm based on twitter data that traded my real money (and did well!). I have joined Amazon as a sofware development engineer on the Security Token Service Team to learn how to build at scale.",
         "contactmessage": "If you want to contact me, Email me! I check it often.",
         "email": "lookwchristopher@gmail.com",
         "phone": "301-814-4298",
         "website": "http://www.chrislook.me",
         "resumedownload": "Christopher_Look_Resume1.pdf",
-        "social": [{
+        "social": [
+            {
                 "name": "github",
                 "url": "http://github.com/lookcw",
                 "className": "fa fa-github"
@@ -28,16 +29,25 @@
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-        "education": [{
-            "logo": "umd.png",
-            "school": "University of Maryland, College Park",
-            "degree": "Computer Science, B.S.  &  Bioengineering, B.S.",
-            "graduated": "\nMay 2020",
-            "description": "GPA: 3.89",
-            "honors": "Cum Laude"
-        }],
-        "work": [{
+        "education": [
+            {
+                "logo": "umd.png",
+                "school": "University of Maryland, College Park",
+                "degree": "Computer Science, B.S.  &  Bioengineering, B.S.",
+                "graduated": "\nMay 2020",
+                "description": "GPA: 3.89",
+                "honors": "Cum Laude"
+            }
+        ],
+        "work": [
+            {
+                "logo": "aws.png",
+                "company": "Amazon Web Services",
+                "title": "Software Development Engineer",
+                "years": "Sep 2020 - current",
+                "description": "AWS STS. Our team vends temporary credential tokens to allow users to access all AWS resources. We handle 800 million calls a day and scale with the entirety of AWS. We're currently hiring SDEII's so please reach out if you or anyone you know is interested in building scalable and distributed systems."
+            },
+            {
                 "logo": "aws.png",
                 "company": "Amazon Web Services",
                 "title": "Software Development Intern",
@@ -67,37 +77,38 @@
             }
         ],
         "skills": [{
-                "name": "Git",
-                "level": "60%"
-            },
-            {
-                "name": "Illustrator",
-                "level": "55%"
-            },
-            {
-                "name": "ReactJs",
-                "level": "50%"
-            },
-            {
-                "name": "CSS",
-                "level": "90%"
-            },
-            {
-                "name": "HTML5",
-                "level": "80%"
-            },
-            {
-                "name": "VueJs",
-                "level": "50%"
-            },
-            {
-                "name": "MongoDB",
-                "level": "80%"
-            }
-        ]
+            "name": "Git",
+            "level": "60%"
+        },
+        {
+            "name": "Illustrator",
+            "level": "55%"
+        },
+        {
+            "name": "ReactJs",
+            "level": "50%"
+        },
+        {
+            "name": "CSS",
+            "level": "90%"
+        },
+        {
+            "name": "HTML5",
+            "level": "80%"
+        },
+        {
+            "name": "VueJs",
+            "level": "50%"
+        },
+        {
+            "name": "MongoDB",
+            "level": "80%"
+        }
+     ]
     },
     "portfolio": {
-        "projects": [{
+        "projects": [
+            {
                 "title": "Synapto",
                 "category": "An EEG and machine learning device to screen Alzheimers disease. Raised over $40,000, featured in Forbes, Washingtonian, and more.",
                 "image": "synapto.png",
@@ -116,6 +127,12 @@
                 "url": "https://pubs.acs.org/doi/10.1021/acs.biochem.9b01006"
             },
             {
+                "title": "Partisanship and COVID",
+                "category": "I wrote a short article about how partisanship effects mask wearing and COVID-19 infection rates.",
+                "image": "Medium.jpg",
+                "url": "https://lookwchristopher.medium.com/why-does-covid-hate-the-gop-6df4e22242d6"
+            },
+            {
                 "title": "Recipe Finder",
                 "category": "Full Stack website in with Django and ReactJS. Give it ingredients and itll give you recipes you can make with them!",
                 "image": "cookbook.png",
@@ -132,17 +149,12 @@
                 "category": "Android application to telemonitor severity of parkinson symptoms in response to drugs. Blue Cross Blue Shield Winner",
                 "image": "parkinsons.png",
                 "url": "https://devpost.com/software/parkinson-s-telemonitoring"
-            },
-            {
-                "title": "DIY Ventilator",
-                "category": "Submission to Columbia University DIY Ventilator challenge.",
-                "image": "Ventilator.png",
-                "url": "DIY_Ventilator.pdf"
             }
         ]
     },
     "photos": {
-        "japanPhotos": [{
+        "japanPhotos": [
+            {
                 "src": "images/japan_photos/0001.jpg",
                 "width": 1.25,
                 "height": 1
@@ -193,7 +205,8 @@
                 "height": 1
             }
         ],
-        "koreaPhotos": [{
+        "koreaPhotos": [
+            {
                 "src": "images/korea_photos/0001.jpg",
                 "width": 1.5,
                 "height": 1
@@ -239,7 +252,8 @@
                 "height": 1
             }
         ],
-        "chicagoPhotos": [{
+        "chicagoPhotos": [
+            {
                 "src": "images/chicago_photos/0001.jpg",
                 "width": 1,
                 "height": 1
@@ -270,7 +284,8 @@
                 "height": 1
             }
         ],
-        "newYorkPhotos": [{
+        "newYorkPhotos": [
+            {
                 "src": "images/newyork_photos/0001.jpg",
                 "width": 1.25,
                 "height": 1
@@ -311,7 +326,8 @@
                 "height": 1
             }
         ],
-        "seattlePhotos": [{
+        "seattlePhotos": [
+            {
                 "src": "images/seattle_photos/0001.jpg",
                 "width": 1.75,
                 "height": 1
@@ -342,7 +358,8 @@
                 "height": 1
             }
         ],
-        "sanFranciscoPhotos": [{
+        "sanFranciscoPhotos": [
+            {
                 "src": "images/san_francisco_photos/0001.jpg",
                 "width": 1.25,
                 "height": 1
@@ -368,5 +385,5 @@
                 "height": 1
             }
         ]
-    }
+    }  
 }

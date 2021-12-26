@@ -14,7 +14,8 @@ class Photos extends Component {
             chicago:[],
             sanFrancisco:[],
             seattle:[],
-            newYork:[]
+            newYork:[],
+            hawaii:[]
         };
         
         if (this.props.data) {
@@ -27,6 +28,7 @@ class Photos extends Component {
                     sanFrancisco :this.props.data.sanFranciscoPhotos.map(photoMap),
                     seattle :this.props.data.seattlePhotos.map(photoMap),
                     newYork :this.props.data.newYorkPhotos.map(photoMap),
+                    hawaii :this.props.data.hawaiiPhotos.map(photoMap),
             
                 }
             }
@@ -47,6 +49,8 @@ class Photos extends Component {
                 <Gallery photos={photos.seattle} />
                 <h2> New York </h2>
                 <Gallery photos={photos.newYork} />
+                <h2> Hawaii </h2>
+                <Gallery photos={photos.hawaii} />
                 </div>
             </section>);
         }

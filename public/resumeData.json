@@ -121,6 +121,12 @@
                 "url": "http://www.senvision.io"
             },
             {
+                "title": "EEGML",
+                "category": "A framework I wrote to make development of EEG based machine learning diagnoses easier.",
+                "image": "EEGML1.png",
+                "url": "https://github.com/lookcw/EEGML"
+            },
+            {
                 "title": "Allostery Research",
                 "category": "Research paper describing discovering network patterns in allostery for novel drug discovery",
                 "image": "BirA.png",
@@ -324,6 +330,11 @@
                 "src": "images/newyork_photos/0009.jpg",
                 "width": 1.5,
                 "height": 1
+            },
+            {
+                "src": "images/newyork_photos/0010.jpg",
+                "width": 1,
+                "height": 1
             }
         ],
         "seattlePhotos": [
@@ -383,6 +394,48 @@
                 "src": "images/san_francisco_photos/0005.jpg",
                 "width": 2,
                 "height": 1
+            }
+        ],
+        "hawaiiPhotos": [
+            {
+                "src": "images/hawaii_photos/0001.jpg",
+                "width": 1.25,
+                "height": 1
+            },
+            {
+                "src": "images/hawaii_photos/0002.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/hawaii_photos/0008.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/hawaii_photos/0004.jpg",
+                "width": 1.5,
+                "height": 1
+            },
+            {
+                "src": "images/hawaii_photos/0005.jpg",
+                "width": 4,
+                "height": 2
+            },
+            {
+                "src": "images/hawaii_photos/0006.jpg",
+                "width": 0.5,
+                "height": 0.5
+            },
+            {
+                "src": "images/hawaii_photos/0007.jpg",
+                "width": 4,
+                "height": 2
+            },
+            {
+                "src": "images/hawaii_photos/0003.jpg",
+                "width": 4,
+                "height": 2
             }
         ]
     }  

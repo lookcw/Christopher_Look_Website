@@ -4,7 +4,7 @@
         "occupation": "Software Engineer",
         "description": "I Love Designing and Implementing Maintainable Solutions",
         "image": "portrait.jpg",
-        "bio": "I believe just about all the easy problems have been solved, so the only valuable problems left are hard. Those are the problems I look to tackle. I am the tech lead for a group called Synapto to create an EEG system to screen for Alzheimer's with Machine Learning. I designed a trading algorithm based on twitter data that traded my real money (and did well!). I have joined Amazon as a sofware development engineer on the Security Token Service Team to learn how to build at scale.",
+        "bio": "I believe just about all the easy problems have been solved, so the only valuable problems left are hard. Those are the problems worth tackling. In college I lead the tech for a group called Synapto to create an EEG system to screen for Alzheimer's with Machine Learning. In my previous position I was a software engineer on Security Token Service in AWS (AssumeRole, iykyk). Most recently I joined Blueberry Pediatrics to provide around the clock care to thousands of children",
         "contactmessage": "If you want to contact me, Email me! I check it often.",
         "email": "lookwchristopher@gmail.com",
         "phone": "301-814-4298",
@@ -41,11 +41,18 @@
         ],
         "work": [
             {
+                "logo": "blueberry.png",
+                "company": "Blueberry Pediatrics",
+                "title": "Softawre Engineer",
+                "years": "Feb 2022 - Current",
+                "description": "We provide 24/7 access to a pediatrician for nearly the price of spotify premium. Currently raising series A. We're hiring engineers exciting about tackling hard problems and moving fast so reach out if you're interested!"
+            },
+            {
                 "logo": "aws.png",
                 "company": "Amazon Web Services",
                 "title": "Software Development Engineer",
-                "years": "Sep 2020 - current",
-                "description": "AWS STS. Our team vends temporary credential tokens to allow users to access all AWS resources. We handle 800 million calls a day and scale with the entirety of AWS. We're currently hiring SDEII's so please reach out if you or anyone you know is interested in building scalable and distributed systems."
+                "years": "Sep 2020 - Feb 2022",
+                "description": "AWS STS. Our team vends temporary credential tokens to allow users to access all AWS resources. We handle 800 million calls a day and scale with the entirety of AWS."
             },
             {
                 "logo": "aws.png",

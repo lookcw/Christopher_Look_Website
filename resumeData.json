@@ -9,7 +9,7 @@
         "email": "lookwchristopher@gmail.com",
         "phone": "301-814-4298",
         "website": "http://www.chrislook.me",
-        "resumedownload": "Christopher_Look_Resume1.pdf",
+        "resumedownload": "Christopher_Look_Resume.pdf",
         "social": [
             {
                 "name": "github",
@@ -43,9 +43,16 @@
             {
                 "logo": "blueberry.png",
                 "company": "Blueberry Pediatrics",
-                "title": "Softawre Engineer",
-                "years": "Feb 2022 - Current",
-                "description": "We provide 24/7 access to a pediatrician for nearly the price of spotify premium. Currently raising series A. We're hiring engineers exciting about tackling hard problems and moving fast so reach out if you're interested!"
+                "title": "Senior Software Engineer",
+                "years": "Nov 2023 - Current",
+                "description": "We provide 24/7 access to a pediatrician for nearly the price of spotify premium. Raised Series A last year, and hoping to be in your family room soon!"
+            },
+            {
+                "logo": "blueberry.png",
+                "company": "Blueberry Pediatrics",
+                "title": "Software Engineer",
+                "years": "Feb 2022 - Nov 2023",
+                "description": "For several months was on a product team of 3. Hyperfocused on growth and ensuring marketing and sales can do their jobs effectively."
             },
             {
                 "logo": "aws.png",
@@ -83,35 +90,36 @@
                 "description": "Created machine learning models to predict whether small molecules would fit in a protein based on chemical descriptors. Developed an NLP Method of predicting whether proteins would interact with each other and prevent drug-drug interactions."
             }
         ],
-        "skills": [{
-            "name": "Git",
-            "level": "60%"
-        },
-        {
-            "name": "Illustrator",
-            "level": "55%"
-        },
-        {
-            "name": "ReactJs",
-            "level": "50%"
-        },
-        {
-            "name": "CSS",
-            "level": "90%"
-        },
-        {
-            "name": "HTML5",
-            "level": "80%"
-        },
-        {
-            "name": "VueJs",
-            "level": "50%"
-        },
-        {
-            "name": "MongoDB",
-            "level": "80%"
-        }
-     ]
+        "skills": [
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Illustrator",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "VueJs",
+                "level": "50%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            }
+        ]
     },
     "portfolio": {
         "projects": [
@@ -119,7 +127,7 @@
                 "title": "Synapto",
                 "category": "An EEG and machine learning device to screen Alzheimers disease. Raised over $40,000, featured in Forbes, Washingtonian, and more.",
                 "image": "synapto.png",
-                "url": "http://www.synapto.io"
+                "url": "https://www.youtube.com/watch?v=nH31MzpWeRY"
             },
             {
                 "title": "Senvision",
@@ -134,6 +142,12 @@
                 "url": "https://github.com/lookcw/EEGML"
             },
             {
+                "title": "Google Meet Autocall",
+                "category": "An extension to call you before your meeting starts so you can stay in the flow!",
+                "image": "autocall.png",
+                "url": "https://chromewebstore.google.com/detail/video-call-calendar-auto/cilpaaigidlcbbecpdbpgmkgcabncblh"
+            },
+            {
                 "title": "Allostery Research",
                 "category": "Research paper describing discovering network patterns in allostery for novel drug discovery",
                 "image": "BirA.png",
@@ -144,12 +158,6 @@
                 "category": "I wrote a short article about how partisanship affects mask wearing and COVID-19 infection rates.",
                 "image": "Medium.jpg",
                 "url": "https://lookwchristopher.medium.com/why-does-covid-hate-the-gop-6df4e22242d6"
-            },
-            {
-                "title": "Recipe Finder",
-                "category": "Full Stack website in with Django and ReactJS. Give it ingredients and itll give you recipes you can make with them!",
-                "image": "cookbook.png",
-                "url": "http://eat-in.herokuapp.com"
             },
             {
                 "title": "NLP for Mental Health Tracking",
@@ -445,5 +453,5 @@
                 "height": 2
             }
         ]
-    }  
+    }
 }

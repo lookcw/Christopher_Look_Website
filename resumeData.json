@@ -2,7 +2,7 @@
     "main": {
         "name": "Christopher Look",
         "occupation": "Software Engineer",
-        "description": "I Love Designing and Implementing Maintainable Solutions",
+        "description": "Doing whatever I can to make healthcare more accessible",
         "image": "portrait.jpg",
         "bio": "I believe just about all the easy problems have been solved, so the only valuable problems left are hard. Those are the problems worth tackling. In college I lead the tech for a group called Synapto to create an EEG system to screen for Alzheimer's with Machine Learning. In my previous position I was a software engineer on Security Token Service in AWS (AssumeRole, iykyk). Most recently I joined Blueberry Pediatrics to provide around the clock care to thousands of children",
         "contactmessage": "If you want to contact me, Email me! I check it often.",
